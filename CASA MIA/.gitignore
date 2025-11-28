@@ -1,0 +1,3 @@
+/.firebase/ 
+# Ocultar claves de Firebase
+/config/firebaseConfig.js

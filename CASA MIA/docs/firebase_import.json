@@ -1,0 +1,1025 @@
+{
+  "menuItems": {
+    "entrada_001": {
+      "nombre": "Bruschetta Clásica",
+      "descripcion": "Pan tostado con tomate fresco, albahaca y aceite de oliva",
+      "precio": 8.50,
+      "categoria": "Entradas",
+      "disponible": true,
+      "stock": 25
+    },
+    "entrada_002": {
+      "nombre": "Carpaccio de Res",
+      "descripcion": "Láminas finas de res con rúcula, parmesano y alcaparras",
+      "precio": 12.00,
+      "categoria": "Entradas",
+      "disponible": true,
+      "stock": 18
+    },
+    "entrada_003": {
+      "nombre": "Calamares Fritos",
+      "descripcion": "Calamares crujientes con salsa tártara y limón",
+      "precio": 10.50,
+      "categoria": "Entradas",
+      "disponible": true,
+      "stock": 22
+    },
+    "entrada_004": {
+      "nombre": "Arancini de Champiñones",
+      "descripcion": "Bolitas de risotto rellenas de champiñones y queso",
+      "precio": 9.00,
+      "categoria": "Entradas",
+      "disponible": true,
+      "stock": 20
+    },
+    "plato_001": {
+      "nombre": "Risotto de Mariscos",
+      "descripcion": "Arroz cremoso con mezcla de mariscos frescos y azafrán",
+      "precio": 22.00,
+      "categoria": "Platos Fuertes",
+      "disponible": true,
+      "stock": 15
+    },
+    "plato_002": {
+      "nombre": "Osso Buco a la Milanese",
+      "descripcion": "Estofado de ternera con verduras y gremolata, acompañado de risotto",
+      "precio": 28.50,
+      "categoria": "Platos Fuertes",
+      "disponible": true,
+      "stock": 12
+    },
+    "plato_003": {
+      "nombre": "Salmón a la Plancha",
+      "descripcion": "Salmón fresco con salsa de eneldo y puré de papas",
+      "precio": 24.00,
+      "categoria": "Platos Fuertes",
+      "disponible": true,
+      "stock": 16
+    },
+    "plato_004": {
+      "nombre": "Lasaña de la Casa",
+      "descripcion": "Láminas de pasta con carne, bechamel y queso gratinado",
+      "precio": 18.50,
+      "categoria": "Platos Fuertes",
+      "disponible": true,
+      "stock": 20
+    },
+    "plato_005": {
+      "nombre": "Pollo Parmesano",
+      "descripcion": "Pechuga de pollo empanizada con salsa pomodoro y queso mozzarella",
+      "precio": 20.00,
+      "categoria": "Platos Fuertes",
+      "disponible": true,
+      "stock": 18
+    },
+    "ensalada_001": {
+      "nombre": "Ensalada César",
+      "descripcion": "Lechuga romana, crutones, parmesano y aderezo césar clásico",
+      "precio": 12.00,
+      "categoria": "Ensaladas",
+      "disponible": true,
+      "stock": 30
+    },
+    "ensalada_002": {
+      "nombre": "Ensalada Mediterránea",
+      "descripcion": "Mezcla de lechugas, aceitunas, tomate, pepino y queso feta",
+      "precio": 14.50,
+      "categoria": "Ensaladas",
+      "disponible": true,
+      "stock": 25
+    },
+    "ensalada_003": {
+      "nombre": "Ensalada de Quinoa",
+      "descripcion": "Quinoa con aguacate, granada y vinagreta de miel",
+      "precio": 13.00,
+      "categoria": "Ensaladas",
+      "disponible": true,
+      "stock": 22
+    },
+    "postre_001": {
+      "nombre": "Tiramisú Clásico",
+      "descripcion": "Postre italiano con café, cacao y mascarpone",
+      "precio": 8.00,
+      "categoria": "Postres",
+      "disponible": true,
+      "stock": 35
+    },
+    "postre_002": {
+      "nombre": "Panna Cotta de Vainilla",
+      "descripcion": "Crema italiana con salsa de frutos rojos",
+      "precio": 7.50,
+      "categoria": "Postres",
+      "disponible": true,
+      "stock": 30
+    },
+    "postre_003": {
+      "nombre": "Profiteroles",
+      "descripcion": "Bolitas de hojaldre rellenas de crema con salsa de chocolate",
+      "precio": 9.00,
+      "categoria": "Postres",
+      "disponible": true,
+      "stock": 28
+    },
+    "postre_004": {
+      "nombre": "Cheesecake de Maracuyá",
+      "descripcion": "Tarta de queso con coulis de maracuyá fresco",
+      "precio": 8.50,
+      "categoria": "Postres",
+      "disponible": true,
+      "stock": 25
+    },
+    "bebida_001": {
+      "nombre": "Vino Tinto de la Casa",
+      "descripcion": "Copa de vino tinto reserva",
+      "precio": 6.00,
+      "categoria": "Bebidas",
+      "disponible": true,
+      "stock": 50
+    },
+    "bebida_002": {
+      "nombre": "Vino Blanco Sauvignon",
+      "descripcion": "Copa de vino blanco fresco y afrutado",
+      "precio": 6.50,
+      "categoria": "Bebidas",
+      "disponible": true,
+      "stock": 45
+    },
+    "bebida_003": {
+      "nombre": "Cerveza Artesanal",
+      "descripcion": "Cerveza rubia artesanal de barril",
+      "precio": 5.00,
+      "categoria": "Bebidas",
+      "disponible": true,
+      "stock": 60
+    },
+    "bebida_004": {
+      "nombre": "Limonada de Hierbas",
+      "descripcion": "Limonada natural con menta y jengibre",
+      "precio": 4.50,
+      "categoria": "Bebidas",
+      "disponible": true,
+      "stock": 40
+    },
+    "bebida_005": {
+      "nombre": "Café Espresso",
+      "descripcion": "Café espresso italiano de grano arábica",
+      "precio": 3.00,
+      "categoria": "Bebidas",
+      "disponible": true,
+      "stock": 100
+    },
+    "especial_001": {
+      "nombre": "Menú Degustación",
+      "descripcion": "Selección de 5 platillos representativos del chef",
+      "precio": 45.00,
+      "categoria": "Especiales",
+      "disponible": true,
+      "stock": 10
+    },
+    "especial_002": {
+      "nombre": "Trufa Negra Risotto",
+      "descripcion": "Risotto cremoso con trufa negra fresca y parmesano",
+      "precio": 35.00,
+      "categoria": "Especiales",
+      "disponible": true,
+      "stock": 8
+    },
+    "especial_003": {
+      "nombre": "Cordero Asado",
+      "descripcion": "Pierna de cordero lentamente asada con hierbas provenzales",
+      "precio": 32.00,
+      "categoria": "Especiales",
+      "disponible": true,
+      "stock": 6
+    },
+    "especial_004": {
+      "nombre": "Mariscada para Dos",
+      "descripcion": "Selección de mariscos frescos con salsa de vino blanco",
+      "precio": 55.00,
+      "categoria": "Especiales",
+      "disponible": true,
+      "stock": 5
+    }
+  },
+  "mesas": {
+    "piso1_mesa01": {
+      "numero": 1,
+      "capacidad": 4,
+      "estado": "Disponible",
+      "piso": 1,
+      "ubicacion": "Terraza"
+    },
+    "piso1_mesa02": {
+      "numero": 2,
+      "capacidad": 2,
+      "estado": "Ocupada",
+      "piso": 1,
+      "ubicacion": "Terraza"
+    },
+    "piso1_mesa03": {
+      "numero": 3,
+      "capacidad": 6,
+      "estado": "Reservada",
+      "piso": 1,
+      "ubicacion": "Interior"
+    },
+    "piso1_mesa04": {
+      "numero": 4,
+      "capacidad": 4,
+      "estado": "Disponible",
+      "piso": 1,
+      "ubicacion": "Interior"
+    },
+    "piso1_mesa05": {
+      "numero": 5,
+      "capacidad": 8,
+      "estado": "Ocupada",
+      "piso": 1,
+      "ubicacion": "Salón Principal"
+    },
+    "piso1_mesa06": {
+      "numero": 6,
+      "capacidad": 4,
+      "estado": "Disponible",
+      "piso": 1,
+      "ubicacion": "Salón Principal"
+    },
+    "piso1_mesa07": {
+      "numero": 7,
+      "capacidad": 2,
+      "estado": "Disponible",
+      "piso": 1,
+      "ubicacion": "Terraza"
+    },
+    "piso1_mesa08": {
+      "numero": 8,
+      "capacidad": 6,
+      "estado": "Reservada",
+      "piso": 1,
+      "ubicacion": "Interior"
+    },
+    "piso1_mesa09": {
+      "numero": 9,
+      "capacidad": 4,
+      "estado": "Ocupada",
+      "piso": 1,
+      "ubicacion": "Salón Principal"
+    },
+    "piso1_mesa10": {
+      "numero": 10,
+      "capacidad": 4,
+      "estado": "Disponible",
+      "piso": 1,
+      "ubicacion": "Interior"
+    },
+    "piso1_mesa11": {
+      "numero": 11,
+      "capacidad": 2,
+      "estado": "Disponible",
+      "piso": 1,
+      "ubicacion": "Terraza"
+    },
+    "piso1_mesa12": {
+      "numero": 12,
+      "capacidad": 8,
+      "estado": "Reservada",
+      "piso": 1,
+      "ubicacion": "Salón Principal"
+    },
+    "piso1_mesa13": {
+      "numero": 13,
+      "capacidad": 4,
+      "estado": "Ocupada",
+      "piso": 1,
+      "ubicacion": "Interior"
+    },
+    "piso1_mesa14": {
+      "numero": 14,
+      "capacidad": 6,
+      "estado": "Disponible",
+      "piso": 1,
+      "ubicacion": "Salón Principal"
+    },
+    "piso1_mesa15": {
+      "numero": 15,
+      "capacidad": 4,
+      "estado": "Disponible",
+      "piso": 1,
+      "ubicacion": "Terraza"
+    },
+    "piso1_mesa16": {
+      "numero": 16,
+      "capacidad": 2,
+      "estado": "Ocupada",
+      "piso": 1,
+      "ubicacion": "Interior"
+    },
+    "piso1_mesa17": {
+      "numero": 17,
+      "capacidad": 4,
+      "estado": "Disponible",
+      "piso": 1,
+      "ubicacion": "Salón Principal"
+    },
+    "piso1_mesa18": {
+      "numero": 18,
+      "capacidad": 6,
+      "estado": "Reservada",
+      "piso": 1,
+      "ubicacion": "Interior"
+    },
+    "piso1_mesa19": {
+      "numero": 19,
+      "capacidad": 8,
+      "estado": "Disponible",
+      "piso": 1,
+      "ubicacion": "Salón Principal"
+    },
+    "piso1_mesa20": {
+      "numero": 20,
+      "capacidad": 4,
+      "estado": "Ocupada",
+      "piso": 1,
+      "ubicacion": "Terraza"
+    },
+    "piso2_mesa01": {
+      "numero": 21,
+      "capacidad": 4,
+      "estado": "Disponible",
+      "piso": 2,
+      "ubicacion": "Vista Jardín"
+    },
+    "piso2_mesa02": {
+      "numero": 22,
+      "capacidad": 2,
+      "estado": "Ocupada",
+      "piso": 2,
+      "ubicacion": "Vista Jardín"
+    },
+    "piso2_mesa03": {
+      "numero": 23,
+      "capacidad": 6,
+      "estado": "Disponible",
+      "piso": 2,
+      "ubicacion": "Salón VIP"
+    },
+    "piso2_mesa04": {
+      "numero": 24,
+      "capacidad": 4,
+      "estado": "Reservada",
+      "piso": 2,
+      "ubicacion": "Vista Jardín"
+    },
+    "piso2_mesa05": {
+      "numero": 25,
+      "capacidad": 8,
+      "estado": "Disponible",
+      "piso": 2,
+      "ubicacion": "Salón VIP"
+    },
+    "piso2_mesa06": {
+      "numero": 26,
+      "capacidad": 4,
+      "estado": "Ocupada",
+      "piso": 2,
+      "ubicacion": "Vista Jardín"
+    },
+    "piso2_mesa07": {
+      "numero": 27,
+      "capacidad": 2,
+      "estado": "Disponible",
+      "piso": 2,
+      "ubicacion": "Salón VIP"
+    },
+    "piso2_mesa08": {
+      "numero": 28,
+      "capacidad": 6,
+      "estado": "Reservada",
+      "piso": 2,
+      "ubicacion": "Vista Jardín"
+    },
+    "piso2_mesa09": {
+      "numero": 29,
+      "capacidad": 4,
+      "estado": "Disponible",
+      "piso": 2,
+      "ubicacion": "Salón VIP"
+    },
+    "piso2_mesa10": {
+      "numero": 30,
+      "capacidad": 4,
+      "estado": "Ocupada",
+      "piso": 2,
+      "ubicacion": "Vista Jardín"
+    },
+    "piso2_mesa11": {
+      "numero": 31,
+      "capacidad": 2,
+      "estado": "Disponible",
+      "piso": 2,
+      "ubicacion": "Salón VIP"
+    },
+    "piso2_mesa12": {
+      "numero": 32,
+      "capacidad": 8,
+      "estado": "Reservada",
+      "piso": 2,
+      "ubicacion": "Vista Jardín"
+    },
+    "piso2_mesa13": {
+      "numero": 33,
+      "capacidad": 4,
+      "estado": "Disponible",
+      "piso": 2,
+      "ubicacion": "Salón VIP"
+    },
+    "piso2_mesa14": {
+      "numero": 34,
+      "capacidad": 6,
+      "estado": "Ocupada",
+      "piso": 2,
+      "ubicacion": "Vista Jardín"
+    },
+    "piso2_mesa15": {
+      "numero": 35,
+      "capacidad": 4,
+      "estado": "Disponible",
+      "piso": 2,
+      "ubicacion": "Salón VIP"
+    },
+    "piso2_mesa16": {
+      "numero": 36,
+      "capacidad": 2,
+      "estado": "Reservada",
+      "piso": 2,
+      "ubicacion": "Vista Jardín"
+    },
+    "piso2_mesa17": {
+      "numero": 37,
+      "capacidad": 4,
+      "estado": "Disponible",
+      "piso": 2,
+      "ubicacion": "Salón VIP"
+    },
+    "piso2_mesa18": {
+      "numero": 38,
+      "capacidad": 6,
+      "estado": "Ocupada",
+      "piso": 2,
+      "ubicacion": "Vista Jardín"
+    },
+    "piso2_mesa19": {
+      "numero": 39,
+      "capacidad": 8,
+      "estado": "Disponible",
+      "piso": 2,
+      "ubicacion": "Salón VIP"
+    },
+    "piso2_mesa20": {
+      "numero": 40,
+      "capacidad": 4,
+      "estado": "Reservada",
+      "piso": 2,
+      "ubicacion": "Vista Jardín"
+    },
+    "piso3_mesa01": {
+      "numero": 41,
+      "capacidad": 4,
+      "estado": "Disponible",
+      "piso": 3,
+      "ubicacion": "Terraza Premium"
+    },
+    "piso3_mesa02": {
+      "numero": 42,
+      "capacidad": 2,
+      "estado": "Ocupada",
+      "piso": 3,
+      "ubicacion": "Terraza Premium"
+    },
+    "piso3_mesa03": {
+      "numero": 43,
+      "capacidad": 6,
+      "estado": "Disponible",
+      "piso": 3,
+      "ubicacion": "Salón Ejecutivo"
+    },
+    "piso3_mesa04": {
+      "numero": 44,
+      "capacidad": 4,
+      "estado": "Reservada",
+      "piso": 3,
+      "ubicacion": "Terraza Premium"
+    },
+    "piso3_mesa05": {
+      "numero": 45,
+      "capacidad": 8,
+      "estado": "Disponible",
+      "piso": 3,
+      "ubicacion": "Salón Ejecutivo"
+    },
+    "piso3_mesa06": {
+      "numero": 46,
+      "capacidad": 4,
+      "estado": "Ocupada",
+      "piso": 3,
+      "ubicacion": "Terraza Premium"
+    },
+    "piso3_mesa07": {
+      "numero": 47,
+      "capacidad": 2,
+      "estado": "Disponible",
+      "piso": 3,
+      "ubicacion": "Salón Ejecutivo"
+    },
+    "piso3_mesa08": {
+      "numero": 48,
+      "capacidad": 6,
+      "estado": "Reservada",
+      "piso": 3,
+      "ubicacion": "Terraza Premium"
+    },
+    "piso3_mesa09": {
+      "numero": 49,
+      "capacidad": 4,
+      "estado": "Disponible",
+      "piso": 3,
+      "ubicacion": "Salón Ejecutivo"
+    },
+    "piso3_mesa10": {
+      "numero": 50,
+      "capacidad": 4,
+      "estado": "Ocupada",
+      "piso": 3,
+      "ubicacion": "Terraza Premium"
+    },
+    "piso3_mesa11": {
+      "numero": 51,
+      "capacidad": 2,
+      "estado": "Disponible",
+      "piso": 3,
+      "ubicacion": "Salón Ejecutivo"
+    },
+    "piso3_mesa12": {
+      "numero": 52,
+      "capacidad": 8,
+      "estado": "Reservada",
+      "piso": 3,
+      "ubicacion": "Terraza Premium"
+    },
+    "piso3_mesa13": {
+      "numero": 53,
+      "capacidad": 4,
+      "estado": "Disponible",
+      "piso": 3,
+      "ubicacion": "Salón Ejecutivo"
+    },
+    "piso3_mesa14": {
+      "numero": 54,
+      "capacidad": 6,
+      "estado": "Ocupada",
+      "piso": 3,
+      "ubicacion": "Terraza Premium"
+    },
+    "piso3_mesa15": {
+      "numero": 55,
+      "capacidad": 4,
+      "estado": "Disponible",
+      "piso": 3,
+      "ubicacion": "Salón Ejecutivo"
+    },
+    "piso3_mesa16": {
+      "numero": 56,
+      "capacidad": 2,
+      "estado": "Reservada",
+      "piso": 3,
+      "ubicacion": "Terraza Premium"
+    },
+    "piso3_mesa17": {
+      "numero": 57,
+      "capacidad": 4,
+      "estado": "Disponible",
+      "piso": 3,
+      "ubicacion": "Salón Ejecutivo"
+    },
+    "piso3_mesa18": {
+      "numero": 58,
+      "capacidad": 6,
+      "estado": "Ocupada",
+      "piso": 3,
+      "ubicacion": "Terraza Premium"
+    },
+    "piso3_mesa19": {
+      "numero": 59,
+      "capacidad": 8,
+      "estado": "Disponible",
+      "piso": 3,
+      "ubicacion": "Salón Ejecutivo"
+    },
+    "piso3_mesa20": {
+      "numero": 60,
+      "capacidad": 4,
+      "estado": "Reservada",
+      "piso": 3,
+      "ubicacion": "Terraza Premium"
+    }
+  },
+  "ordenes": {
+    "orden_20241101_001": {
+      "idMesa": "piso1_mesa02",
+      "idMesero": "mesero_001",
+      "estado": "Servida",
+      "fechaCreacion": "2024-11-01T12:30:00Z",
+      "total": 45.50,
+      "notas": "Sin cebolla",
+      "items": {
+        "item_001": {
+          "idMenuItem": "entrada_001",
+          "nombre": "Bruschetta Clásica",
+          "cantidad": 2,
+          "precioUnitario": 8.50,
+          "estado": true
+        },
+        "item_002": {
+          "idMenuItem": "plato_004",
+          "nombre": "Lasaña de la Casa",
+          "cantidad": 1,
+          "precioUnitario": 18.50,
+          "estado": true
+        },
+        "item_003": {
+          "idMenuItem": "bebida_001",
+          "nombre": "Vino Tinto de la Casa",
+          "cantidad": 2,
+          "precioUnitario": 6.00,
+          "estado": true
+        }
+      }
+    },
+    "orden_20241101_002": {
+      "idMesa": "piso2_mesa05",
+      "idMesero": "mesero_002",
+      "estado": "Servida",
+      "fechaCreacion": "2024-11-01T13:15:00Z",
+      "total": 89.00,
+      "notas": "Celebración de aniversario",
+      "items": {
+        "item_001": {
+          "idMenuItem": "especial_001",
+          "nombre": "Menú Degustación",
+          "cantidad": 2,
+          "precioUnitario": 45.00,
+          "estado": true
+        }
+      }
+    },
+    "orden_20241102_001": {
+      "idMesa": "piso1_mesa09",
+      "idMesero": "mesero_001",
+      "estado": "Servida",
+      "fechaCreacion": "2024-11-02T14:00:00Z",
+      "total": 67.25,
+      "notas": "",
+      "items": {
+        "item_001": {
+          "idMenuItem": "entrada_003",
+          "nombre": "Calamares Fritos",
+          "cantidad": 1,
+          "precioUnitario": 10.50,
+          "estado": true
+        },
+        "item_002": {
+          "idMenuItem": "plato_002",
+          "nombre": "Osso Buco a la Milanese",
+          "cantidad": 1,
+          "precioUnitario": 28.50,
+          "estado": true
+        },
+        "item_003": {
+          "idMenuItem": "postre_001",
+          "nombre": "Tiramisú Clásico",
+          "cantidad": 1,
+          "precioUnitario": 8.00,
+          "estado": true
+        },
+        "item_004": {
+          "idMenuItem": "bebida_002",
+          "nombre": "Vino Blanco Sauvignon",
+          "cantidad": 2,
+          "precioUnitario": 6.50,
+          "estado": true
+        }
+      }
+    },
+    "orden_20241103_001": {
+      "idMesa": "piso3_mesa12",
+      "idMesero": "mesero_003",
+      "estado": "Servida",
+      "fechaCreacion": "2024-11-03T20:30:00Z",
+      "total": 124.50,
+      "notas": "Grupo empresarial",
+      "items": {
+        "item_001": {
+          "idMenuItem": "entrada_002",
+          "nombre": "Carpaccio de Res",
+          "cantidad": 4,
+          "precioUnitario": 12.00,
+          "estado": true
+        },
+        "item_002": {
+          "idMenuItem": "plato_001",
+          "nombre": "Risotto de Mariscos",
+          "cantidad": 2,
+          "precioUnitario": 22.00,
+          "estado": true
+        },
+        "item_003": {
+          "idMenuItem": "plato_003",
+          "nombre": "Salmón a la Plancha",
+          "cantidad": 2,
+          "precioUnitario": 24.00,
+          "estado": true
+        },
+        "item_004": {
+          "idMenuItem": "bebida_003",
+          "nombre": "Cerveza Artesanal",
+          "cantidad": 6,
+          "precioUnitario": 5.00,
+          "estado": true
+        }
+      }
+    },
+    "orden_20241104_001": {
+      "idMesa": "piso2_mesa14",
+      "idMesero": "mesero_002",
+      "estado": "Servida",
+      "fechaCreacion": "2024-11-04T19:45:00Z",
+      "total": 38.00,
+      "notas": "Cliente vegetariano",
+      "items": {
+        "item_001": {
+          "idMenuItem": "ensalada_002",
+          "nombre": "Ensalada Mediterránea",
+          "cantidad": 2,
+          "precioUnitario": 14.50,
+          "estado": true
+        },
+        "item_002": {
+          "idMenuItem": "bebida_004",
+          "nombre": "Limonada de Hierbas",
+          "cantidad": 2,
+          "precioUnitario": 4.50,
+          "estado": true
+        }
+      }
+    },
+    "orden_20241105_001": {
+      "idMesa": "piso1_mesa16",
+      "idMesero": "mesero_001",
+      "estado": "Servida",
+      "fechaCreacion": "2024-11-05T13:30:00Z",
+      "total": 52.75,
+      "notas": "",
+      "items": {
+        "item_001": {
+          "idMenuItem": "entrada_004",
+          "nombre": "Arancini de Champiñones",
+          "cantidad": 1,
+          "precioUnitario": 9.00,
+          "estado": true
+        },
+        "item_002": {
+          "idMenuItem": "plato_005",
+          "nombre": "Pollo Parmesano",
+          "cantidad": 1,
+          "precioUnitario": 20.00,
+          "estado": true
+        },
+        "item_003": {
+          "idMenuItem": "ensalada_001",
+          "nombre": "Ensalada César",
+          "cantidad": 1,
+          "precioUnitario": 12.00,
+          "estado": true
+        },
+        "item_004": {
+          "idMenuItem": "postre_003",
+          "nombre": "Profiteroles",
+          "cantidad": 1,
+          "precioUnitario": 9.00,
+          "estado": true
+        },
+        "item_005": {
+          "idMenuItem": "bebida_005",
+          "nombre": "Café Espresso",
+          "cantidad": 2,
+          "precioUnitario": 3.00,
+          "estado": true
+        }
+      }
+    },
+    "orden_20241106_001": {
+      "idMesa": "piso3_mesa07",
+      "idMesero": "mesero_003",
+      "estado": "Servida",
+      "fechaCreacion": "2024-11-06T21:00:00Z",
+      "total": 76.00,
+      "notas": "Cena romántica",
+      "items": {
+        "item_001": {
+          "idMenuItem": "especial_002",
+          "nombre": "Trufa Negra Risotto",
+          "cantidad": 2,
+          "precioUnitario": 35.00,
+          "estado": true
+        },
+        "item_002": {
+          "idMenuItem": "postre_002",
+          "nombre": "Panna Cotta de Vainilla",
+          "cantidad": 2,
+          "precioUnitario": 7.50,
+          "estado": true
+        }
+      }
+    },
+    "orden_20241107_001": {
+      "idMesa": "piso2_mesa19",
+      "idMesero": "mesero_002",
+      "estado": "Servida",
+      "fechaCreacion": "2024-11-07T15:20:00Z",
+      "total": 95.50,
+      "notas": "Reunión familiar",
+      "items": {
+        "item_001": {
+          "idMenuItem": "entrada_001",
+          "nombre": "Bruschetta Clásica",
+          "cantidad": 3,
+          "precioUnitario": 8.50,
+          "estado": true
+        },
+        "item_002": {
+          "idMenuItem": "plato_004",
+          "nombre": "Lasaña de la Casa",
+          "cantidad": 3,
+          "precioUnitario": 18.50,
+          "estado": true
+        },
+        "item_003": {
+          "idMenuItem": "ensalada_003",
+          "nombre": "Ensalada de Quinoa",
+          "cantidad": 2,
+          "precioUnitario": 13.00,
+          "estado": true
+        },
+        "item_004": {
+          "idMenuItem": "bebida_001",
+          "nombre": "Vino Tinto de la Casa",
+          "cantidad": 4,
+          "precioUnitario": 6.00,
+          "estado": true
+        }
+      }
+    },
+    "orden_20241108_001": {
+      "idMesa": "piso1_mesa05",
+      "idMesero": "mesero_001",
+      "estado": "Servida",
+      "fechaCreacion": "2024-11-08T14:45:00Z",
+      "total": 112.00,
+      "notas": "Celebración de cumpleaños",
+      "items": {
+        "item_001": {
+          "idMenuItem": "especial_004",
+          "nombre": "Mariscada para Dos",
+          "cantidad": 1,
+          "precioUnitario": 55.00,
+          "estado": true
+        },
+        "item_002": {
+          "idMenuItem": "plato_003",
+          "nombre": "Salmón a la Plancha",
+          "cantidad": 1,
+          "precioUnitario": 24.00,
+          "estado": true
+        },
+        "item_003": {
+          "idMenuItem": "postre_004",
+          "nombre": "Cheesecake de Maracuyá",
+          "cantidad": 4,
+          "precioUnitario": 8.50,
+          "estado": true
+        }
+      }
+    },
+    "orden_20241109_001": {
+      "idMesa": "piso3_mesa15",
+      "idMesero": "mesero_003",
+      "estado": "Servida",
+      "fechaCreacion": "2024-11-09T20:15:00Z",
+      "total": 64.00,
+      "notas": "",
+      "items": {
+        "item_001": {
+          "idMenuItem": "entrada_003",
+          "nombre": "Calamares Fritos",
+          "cantidad": 2,
+          "precioUnitario": 10.50,
+          "estado": true
+        },
+        "item_002": {
+          "idMenuItem": "plato_001",
+          "nombre": "Risotto de Mariscos",
+          "cantidad": 2,
+          "precioUnitario": 22.00,
+          "estado": true
+        },
+        "item_003": {
+          "idMenuItem": "bebida_002",
+          "nombre": "Vino Blanco Sauvignon",
+          "cantidad": 2,
+          "precioUnitario": 6.50,
+          "estado": true
+        }
+      }
+    },
+    "orden_20241110_001": {
+      "idMesa": "piso2_mesa08",
+      "idMesero": "mesero_002",
+      "estado": "Servida",
+      "fechaCreacion": "2024-11-10T13:00:00Z",
+      "total": 41.50,
+      "notas": "Almuerzo ejecutivo",
+      "items": {
+        "item_001": {
+          "idMenuItem": "ensalada_001",
+          "nombre": "Ensalada César",
+          "cantidad": 1,
+          "precioUnitario": 12.00,
+          "estado": true
+        },
+        "item_002": {
+          "idMenuItem": "plato_005",
+          "nombre": "Pollo Parmesano",
+          "cantidad": 1,
+          "precioUnitario": 20.00,
+          "estado": true
+        },
+        "item_003": {
+          "idMenuItem": "bebida_005",
+          "nombre": "Café Espresso",
+          "cantidad": 1,
+          "precioUnitario": 3.00,
+          "estado": true
+        },
+        "item_004": {
+          "idMenuItem": "postre_001",
+          "nombre": "Tiramisú Clásico",
+          "cantidad": 1,
+          "precioUnitario": 8.00,
+          "estado": true
+        }
+      }
+    }
+  },
+  "reservas": {
+    "reserva_20241115_001": {
+      "nombreCliente": "María González",
+      "telefonoCliente": "+1234567890",
+      "fechaHora": "2024-11-15T20:00:00Z",
+      "numeroPersonas": 4,
+      "idMesaAsignada": "piso1_mesa03",
+      "estado": "Confirmada"
+    },
+    "reserva_20241116_001": {
+      "nombreCliente": "Carlos Rodríguez",
+      "telefonoCliente": "+1234567891",
+      "fechaHora": "2024-11-16T19:30:00Z",
+      "numeroPersonas": 6,
+      "idMesaAsignada": "piso2_mesa12",
+      "estado": "Confirmada"
+    },
+    "reserva_20241117_001": {
+      "nombreCliente": "Ana Martínez",
+      "telefonoCliente": "+1234567892",
+      "fechaHora": "2024-11-17T21:00:00Z",
+      "numeroPersonas": 2,
+      "idMesaAsignada": "piso3_mesa04",
+      "estado": "Confirmada"
+    },
+    "reserva_20241118_001": {
+      "nombreCliente": "Empresa XYZ",
+      "telefonoCliente": "+1234567893",
+      "fechaHora": "2024-11-18T13:00:00Z",
+      "numeroPersonas": 8,
+      "idMesaAsignada": "piso1_mesa05",
+      "estado": "Confirmada"
+    },
+    "reserva_20241119_001": {
+      "nombreCliente": "Familia López",
+      "telefonoCliente": "+1234567894",
+      "fechaHora": "2024-11-19T14:30:00Z",
+      "numeroPersonas": 5,
+      "idMesaAsignada": "piso2_mesa18",
+      "estado": "Confirmada"
+    }
+  }
+}
